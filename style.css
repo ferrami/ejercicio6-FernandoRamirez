@@ -1,0 +1,27 @@
+body {
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+table {
+    background-color: yellow;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th {
+    text-transform: uppercase;
+    color: red;
+    text-align: center;
+    font-style: italic;
+}
+
+td {
+    border: 1px solid #000;
+    font-weight: 500;
+}
